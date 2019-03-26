@@ -1,5 +1,5 @@
 # [Naive semi-supervised deep learning using pseudo-label](https://doi.org/10.1007/s12083-018-0702-9)
-Original paper: https://rdcu.be/bc9oA
+*Original paper: https://rdcu.be/bc9oA*
 
 This is an implementation of naive semi-supervised deep learning on Python 3, Keras, and TensorFlow. 
 
