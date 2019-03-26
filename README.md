@@ -17,4 +17,4 @@ We apply this method to the MNIST, CIFAR-10, and IMDB data sets, which are each 
 
 ## Usage
 To run the code, use
-  python semi_supervised_loop.py
+    python semi_supervised_loop.py
